@@ -1,7 +1,7 @@
 ---
 name: ✨ Feature Request
 about: Eine neue Funktion oder Verbesserung vorschlagen
-title: "[FEATURE] "
+title: ""
 labels: feature
 type: Feature
 ---

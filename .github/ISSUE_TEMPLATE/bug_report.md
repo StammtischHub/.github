@@ -1,7 +1,7 @@
 ---
 name: 🐛 Bug Report
 about: Einen Fehler melden, damit wir ihn beheben können
-title: "[BUG] "
+title: ""
 labels: bug
 type: Bug
 ---

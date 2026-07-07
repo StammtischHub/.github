@@ -1,7 +1,7 @@
 ---
 name: 🚀 Epic
 about: Großes übergeordnetes Arbeitspaket, das mehrere Features/Stories umfasst
-title: "[EPIC] "
+title: ""
 labels: epic
 type: Epic
 ---

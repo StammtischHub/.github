@@ -1,7 +1,7 @@
 ---
 name: 📖 User Story
 about: Eine Anforderung aus Nutzerperspektive beschreiben
-title: "[USER STORY] "
+title: ""
 labels: user story
 type: User Story
 ---
