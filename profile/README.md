@@ -1,6 +1,6 @@
 # Gude vom StammtischHub
 
-Was als gemeinsames Interesse an Technik und Informatik begann, entwickelte sich über die Jahre zu einer stetig wachsenden Sammlung aus Projekten, Experimenten und manchmal auch verrückten Ideen.
+Was als gemeinsames Interesse an Technik und Informatik begann, entwickelte sich über die Jahre zu einer stetig wachsenden Sammlung an Projekten, Experimenten und manchmal auch verrückten Ideen.
 
 Diese Organisation ist das Zuhause unserer gemeinsamen Projekte aus Schulzeit, Studium und Freizeit. Hier landen sowohl universitäre Arbeiten als auch spontane Wochenendprojekte, Hardware-Basteleien, Smart-Home-Lösungen und Software, die aus dem einfachen Gedanken entstanden ist:
 > "Lass das mal selbst bauen."
