@@ -7,7 +7,7 @@ Diese Organisation ist das Zuhause unserer gemeinsamen Projekte aus Schulzeit, S
 
 ## Wer wir sind
 
-Wir sind zwei Freunde, die sich bereits in der Oberstufe kennengelernt haben und heute gemeinsam Informatik studieren.
+Im Kern sind wir sind zwei Freunde, die sich bereits in der Oberstufe kennengelernt haben und heute gemeinsam Informatik studieren. Je nach Projekt werden wir dabei gelegentlich von weiteren Freunden und Mitstreitern unterstützt.
 
 Seitdem begleiten uns zahlreiche Projekte durch den Alltag. Manche davon waren Schulprojekte, andere Studienleistungen und einige entstanden einfach aus Neugier oder weil wir eine neue Technologie ausprobieren wollten.
 
