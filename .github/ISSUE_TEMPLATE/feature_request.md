@@ -14,9 +14,9 @@ type: Feature
 
 ## Akzeptanzkriterien
 <!-- Was muss erfüllt sein, damit das Feature als "fertig" gilt? -->
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
+- [ ]
 
 ## Zusätzlicher Kontext
 <!-- Mockups, Referenzen, Links oder weitere Informationen. -->
