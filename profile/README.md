@@ -51,7 +51,7 @@ Manchmal mit den berühmten Worten:
 
 | Projekt                                                                  | Worum geht's?                                                                                                     | Keywords                                                                   | Status |
 |--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|:------:|
-| [**TerminPilot**](https://github.com/StammtischHub/TerminPilot-Backend)  | _Cross-Plattform Webandwendung zur Terminfindung und -erstellung_                                                 | `Kotlin` `Spring` `Gradle` `OpenAPI` `Swagger` `TypeScript` `React` `Vite` |   🟢   |
+| [**TerminPilot**](https://github.com/StammtischHub/TerminPilot-Backend)  | _Webandwendung zur Cross-Plattform Terminfindung und -erstellung_                                                 | `Kotlin` `Spring` `Gradle` `OpenAPI` `Swagger` `TypeScript` `React` `Vite` |   🟢   |
 | [**LaTeX-Dokumente**](https://github.com/StammtischHub/BA-LaTeX)         | _LaTeX-Dokumente und -Ausarbeitungen erstellt im Rahmen unseres Studiums_                                         | `LaTeX` `PDF`                                                              |   🟢   |
 | [**LED-Schild**](https://github.com/StammtischHub/led-sign)              | _LED-Schild mit Ultraschallsensor und Weboberfläche zur Steuerrung der Farben_                                    | `Raspberry Pi Pico W` `Python`                                             |   🟡   |
 | [**Arcade-Machine**](https://github.com/StammtischHub/arcade-machine)    | _Eigenhändig gebaute Arcade-Maschine &ndash; <br>Modulprüfung für das Modul "Embedded and Operating Systems"_     | `Python` `Raspberry Pi` `RetroPie`                                         |   🔵   |
@@ -130,16 +130,16 @@ Sondern irgendwo zwischen einem Kaffee oder Bier, einer Diskussion über Technik
 
 > "Wie schwer kann das schon sein?"
 
-Spoiler: Meistens schwerer als gedacht. Aber genau das macht den Spaß aus.
+_Spoiler_: Meistens schwerer als gedacht. Aber genau das macht den Spaß aus.
 
 ## Mitmachen & Kontakt
 
 Ihr habt einen Bug gefunden, eine Idee oder wollt bei einem Projekt mitbasteln? Gerne!
 
-- 🐛 **Bugs & Ideen:** einfach ein Issue im jeweiligen Repository aufmachen
-- 🔀 **Pull Requests** sind willkommen – bitte vorher mit einem Maintainer abklären und bestenfalls ein Issue erstellen
+- **Bugs & Ideen:** einfach ein Issue im jeweiligen Repository aufmachen
+- **Pull Requests** sind willkommen – bitte vorher mit einem Maintainer abklären und bestenfalls ein Issue erstellen
 
-## 📄 Lizenz
+## Lizenz
 
 Sofern nicht anders angegeben, findet ihr die Lizenz im jeweiligen Repository. Projekte ohne `LICENSE`-Datei sind (noch) nicht zur Weiterverwendung freigegeben.
 
