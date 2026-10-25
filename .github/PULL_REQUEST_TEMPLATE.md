@@ -9,6 +9,7 @@
 Closes #
 
 ## Checkliste
+
 - [ ] Dokumentation wurde entsprechend aktualisiert
 - [ ] Tests wurden hinzugefügt, sofern erforderlich
 - [ ] Folge-Issue wurde erstellt, sofern erforderlich

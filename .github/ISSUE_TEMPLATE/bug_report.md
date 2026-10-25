@@ -11,7 +11,6 @@ type: Bug
 <!-- Was sollte eigentlich passieren? Was passiert stattdessen? -->
 <!-- Falls vorhanden, füge Screenshots oder Log-Ausgaben hinzu. -->
 
-
 ## Schritte zur Reproduktion
 <!-- Beschreibe die Schritte, um den Fehler zu reproduzieren. -->
 1.
