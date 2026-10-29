@@ -22,6 +22,9 @@ Diese Organisation ist das Zuhause unserer gemeinsamen Projekte aus Schulzeit, S
 
 ## Wer wir sind
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Reusch-0A66C2?style=for-the-badge&labelColor=0A66C2&color=555555)](https://www.linkedin.com/in/leon-reusch-30330a342/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jannis%20Dickel-0A66C2?style=for-the-badge&labelColor=0A66C2&color=555555)](https://www.linkedin.com/in/jannis-dickel-a8b716397/)
+
 Im Kern sind wir zwei Freunde, die sich bereits in der Oberstufe kennengelernt haben und heute gemeinsam Informatik studieren. Je nach Projekt werden wir dabei gelegentlich von weiteren Freunden unterstützt.
 
 Seitdem begleiten uns zahlreiche Projekte durch den Alltag. Manche davon waren Schulprojekte, andere Studienleistungen und einige entstanden einfach aus Neugier oder weil wir eine neue Technologie ausprobieren wollten.
@@ -52,7 +55,7 @@ Manchmal mit den berühmten Worten:
 
 | Projekt                                                                  | Worum geht's?                                                                                                     | Keywords                                                                   | Status |
 |--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|:------:|
-| [**TerminPilot**](https://github.com/StammtischHub/TerminPilot-Backend)  | _Webandwendung zur Cross-Plattform Terminfindung und -erstellung_                                                 | `Kotlin` `Spring` `Gradle` `OpenAPI` `Swagger` `TypeScript` `React` `Vite` |   🟢   |
+| [**TerminPilot**](https://github.com/orgs/StammtischHub/projects/2)      | _Webandwendung zur Cross-Plattform Terminfindung und -erstellung_                                                 | `Kotlin` `Spring` `Gradle` `OpenAPI` `Swagger` `TypeScript` `React` `Vite` |   🟢   |
 | [**LaTeX-Dokumente**](https://github.com/StammtischHub/BA-LaTeX)         | _LaTeX-Dokumente und -Ausarbeitungen erstellt im Rahmen unseres Studiums_                                         | `LaTeX` `PDF`                                                              |   🟢   |
 | [**LED-Schild**](https://github.com/StammtischHub/led-sign)              | _LED-Schild mit Ultraschallsensor und Weboberfläche zur Steuerrung der Farben_                                    | `Raspberry Pi Pico W` `Python`                                             |   🟡   |
 | [**Arcade-Machine**](https://github.com/StammtischHub/arcade-machine)    | _Eigenhändig gebaute Arcade-Maschine &ndash; <br>Modulprüfung für das Modul "Embedded and Operating Systems"_     | `Python` `Raspberry Pi` `RetroPie`                                         |   🔵   |
@@ -60,6 +63,8 @@ Manchmal mit den berühmten Worten:
 | [**Webdesign-Modulprüfung**](https://github.com/StammtischHub/webdesign) | _Statische Webseiten &ndash; <br>Modulprüfung für das Modul "Webdesign und Standards Teil 2"_                     | `HTML` `CSS` `JavaScript` `PDF`                                            |   🔴   |
 
 <sub>🟢 aktiv · 🟡 pausiert / aufgeschoben · 🔵 vollendet (maintained) · 🔴 vollendet / archiviert (nicht maintained) </sub>
+
+Allgemeine Issues und Ideen, die nicht zu einem bestimmten Projekt gehören, findet ihr in unserem [**Backlog**](https://github.com/orgs/StammtischHub/projects/6)-Projekt.
 
 ## Tech-Stack
 
@@ -138,7 +143,8 @@ _Spoiler_: Meistens schwerer als gedacht. Aber genau das macht den Spaß aus.
 Ihr habt einen Bug gefunden, eine Idee oder wollt bei einem Projekt mitbasteln? Gerne!
 
 - **Bugs & Ideen:** einfach ein Issue im jeweiligen Repository aufmachen
-- **Pull Requests** sind willkommen – bitte vorher mit einem Maintainer abklären und bestenfalls ein Issue erstellen
+- **Pull Requests** sind (meist) willkommen – bitte vorher mit einem Maintainer abklären und bestenfalls ein Issue erstellen
+- **Mitglied werden:** Gerne einen der Maintainer kontaktieren
 
 ## Lizenz
 
